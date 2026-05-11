@@ -1,4 +1,4 @@
-
+smart Little Snitch for macOS Validator | network-monitoring + emergency-access offers the most advanced Little Snitch for macOS validator, with network-monitoring and
 
 
 
